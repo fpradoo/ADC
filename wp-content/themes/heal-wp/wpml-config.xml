@@ -1,0 +1,37 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_service_settings_id_learn_more</custom-field>
+        <custom-field action="translate">_service_setting_id_icon</custom-field>
+        <custom-field action="translate">_team_setting_id_designation</custom-field>
+        <custom-field action="translate">_team_setting_id_sort_team_bio</custom-field>
+        <custom-field action="translate">_causes_setting_id_donation_goal</custom-field>
+        <custom-field action="translate">_causes_setting_id_donation_manual</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">service</custom-type>
+        <custom-type translate="1">team</custom-type>
+        <custom-type translate="1">causes</custom-type>
+        <custom-type translate="1">gallery</custom-type>
+        <custom-type translate="1">event</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">filter_menu</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="my_plugins_options">
+            <key name="option_name_1" />
+            <key name="option_name_2" />
+            <key name="options_group_1">
+                <key name="sub_option_name_11" />
+                <key name="sub_option_name_12" />
+            </key>
+            <key name="options_group_2">
+                <key name="sub_option_name_21" />
+                <key name="sub_option_name_22" />
+            </key>
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>
+</wpml-config>
+
+
