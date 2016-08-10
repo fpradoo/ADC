@@ -1090,8 +1090,8 @@ a.reset_variations {
 
 @media (max-width: 1200px) {
   .text-services {
-      width: 92%;
-      float: none;
+      width: 92% !important;
+      float: none;class="content-description"
       margin-right:5px;
       margin-left:5px;
   }

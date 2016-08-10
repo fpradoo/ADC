@@ -675,13 +675,13 @@ function cc_css_load_on_head() {
 				<?php if(!empty($heal_option['heal_unlimited_color_scheam']['background-color'])) { ?>
 				@media (max-width: 992px) {
 					.navbar-default {
-						background: <?php echo esc_attr($heal_option['heal_unlimited_color_scheam']['background-color']); ?>;
+						background: transparent;
 					}
 					.navbar-fixed-top {
-						background: <?php echo esc_attr($heal_option['heal_unlimited_color_scheam']['background-color']); ?>;
+						background: transparent;
 					}
 					.navbar-nav>li {
-						background: <?php echo esc_attr($heal_option['heal_unlimited_color_scheam']['background-color']); ?>;
+						background: transparent;
 					}
 				}
 

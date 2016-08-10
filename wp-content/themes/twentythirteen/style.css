@@ -3225,3 +3225,13 @@ footer.entry-meta {
 		color: #333;
 	}
 }
+
+
+@media (min-width: 1000px) {
+	.navbar-fixed-top {
+		background: transparent !important;
+	}
+	.navbar-default {
+		background: rgba(0,0,0,.5) !important;
+	}	
+}

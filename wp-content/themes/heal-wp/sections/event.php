@@ -109,7 +109,10 @@
 										</div><!-- /.content-icon -->
 									</div><!-- /.content-icon-hex -->
 									<h3 class="content-title"><?php echo esc_html( $heal_option['heal_event_title'] ); ?></h3>
-									<p class="content-description"><?php echo wp_kses_stripslashes( $heal_option['heal_event_des'] ); ?></p>
+									<p class="content-description"><strong><span style="color: #404040; font-family: Calibri; white-space: font-size: 12px: pre-wrap; line-height: 1.5;">LEADING CASES-</span></strong>
+										<span style="color: #404040;font-family: Calibri;white-space: pre-wrap;text-align: left;font-size: 17px;">ADC litiga en casos de gran incidencia social, y en algunos casos, los fallos conseguidos han sentado jurisprudencia, sirviendo como base para generalizar medidas en beneficio de la sociedad civil en su conjunto
+										</span>...
+									</p>
 								</div><!-- /.content-box -->
 
 								<div id="event-owl-nav" class="slide-nav-containers owl-nav"></div><!-- /.slide-nav-container -->

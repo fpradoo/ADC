@@ -663,10 +663,56 @@ filter: grayscale(100%);
 {   padding-top: 25px;
     padding-bottom: 25px;
     padding-right: 55px;
-    padding-left: 55px;
-    
-    
-}
+    padding-left: 55px;}
+@media (max-width: 400px) {
+	.containernews{   
+		padding-top: 25px;
+		padding-bottom: 25px;
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	
+	.titulonoticias{
+		padding-left: 25px;
+	}
+	
+	.section-title{
+		width: 90%;
+	}
+	
+	.news-item {
+		margin-right: 0px;
+		margin-left: 0px;
+		width: 90% !important;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	
+	.pricing-table {
+		padding-top: 0px;
+	}
+
+	.row {
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+	
+	.volunteer-section {
+		padding-top: 0px;
+	}
+
+	.section-padding {
+		padding-top: 0px;
+	}
+	
+	.col-md-6 {
+		width: 100% !important;
+	}
+	
+	.mailboton {
+		margin-left: 0px !important;
+	}
+}
 
 .event-timeline
 {display: none;
